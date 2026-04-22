@@ -1,0 +1,49 @@
+
+window {
+margin: 0px;
+border: none;
+background-color: rgba(20, 20, 20, 0.45); /* abu hitam soft */
+border-radius: 16px;
+}
+
+#input {
+margin: 10px;
+border: none;
+color: #eaeaea;
+background-color: rgba(40, 40, 40, 0.55); /* sedikit kontras */
+border-radius: 12px;
+padding: 8px;
+}
+
+#inner-box {
+margin: 8px;
+border: none;
+background-color: rgba(20, 20, 20, 0.3); /* layer tipis */
+border-radius: 12px;
+}
+
+#outer-box {
+margin: 6px;
+border: none;
+background-color: transparent;
+}
+
+#scroll {
+margin: 0px;
+border: none;
+}
+
+#text {
+margin: 6px;
+border: none;
+color: #e5e5e5;
+}
+
+#entry {
+padding: 8px;
+border-radius: 10px;
+}
+
+#entry:selected {
+background-color: rgba(200, 200, 200, 0.12); /* abu highlight halus */
+}
